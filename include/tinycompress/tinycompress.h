@@ -53,6 +53,8 @@
 #ifndef __TINYCOMPRESS_H
 #define __TINYCOMPRESS_H
 
+#define ENABLE_EXTENDED_COMPRESS_FORMAT
+
 #if defined(__cplusplus)
 extern "C" {
 #endif
